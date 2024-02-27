@@ -1,4 +1,4 @@
-👋 Hi, I’m Shikha, a digital humanist passionate about harnessing the power of data for social good, with a particular focus on cultural analytics.
+👋 Hi, I’m Shikha, a Digital Humanist passionate about harnessing the power of data for social good, with a particular focus on cultural analytics.
 
 I’m interested in projects that leverage cultural analytics to uncover insights into social dynamics, trends, and patterns, aiming to inform policies and initiatives that promote inclusivity and equality.
 
