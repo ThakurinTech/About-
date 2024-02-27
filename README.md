@@ -1,4 +1,4 @@
-👋 Hi, I’m @ThakurinTech, a digital humanist passionate about harnessing the power of data for social good, with a particular focus on cultural analytics and educational equity. My work is driven by the belief that technology and data can bridge gaps in access to education and foster understanding across diverse cultural landscapes.
+👋 Hi, I’m @ThakurinTech, a digital humanist passionate about harnessing the power of data for social good, with a particular focus on cultural analytics and educational equity. 
 
 I’m interested in projects that leverage cultural analytics to uncover insights into social dynamics, trends, and patterns, aiming to inform policies and initiatives that promote inclusivity and equality.
 
