@@ -1,0 +1,1 @@
+👋 Hi, I’m @ThakurinTech, a data scientist passionate about harnessing the power of data for social good, with a particular focus on cultural analytics and educational equity. My work is driven by the belief that technology and data can bridge gaps in access to education and foster understanding across diverse cultural landscapes.
